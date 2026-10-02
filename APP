@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Aplicación</title>
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+        iframe { width: 100%; height: 100%; border: none; }
+    </style>
+</head>
+<body>
+    <!-- Reemplaza la URL de abajo por el enlace largo de tu Apps Script -->
+    <iframe src="https://script.google.com/macros/s/AKfycbx_35Xu94g5jpF-qs5PtUcsLv8GYsYx2ha33tE24Ru9e2075sUaQ9RuZckPNpmN9b3B/exec"></iframe>
+</body>
+</html>
